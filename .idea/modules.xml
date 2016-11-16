@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FreeMarkerDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/FreeMarkerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FreeMarkerDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FreeMarkerDemo_main.iml" group="FreeMarkerDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FreeMarkerDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FreeMarkerDemo_test.iml" group="FreeMarkerDemo" />
+    </modules>
+  </component>
+</project>
